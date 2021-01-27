@@ -1,0 +1,17 @@
+.front-page {
+  width: 100vw;
+  height: 90vh;
+  padding-top: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: xx-large;
+  flex-flow: column nowrap;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 50px;
+  font-weight: bolder;
+}
